@@ -81,7 +81,9 @@ Un double padding (dans le drawable XML ET dans le layout XML) rendait les chips
 
 ## Fichier APK
 
-L'APK debug se trouve dans : `app/build/outputs/apk/debug/app-debug.apk`
+L'APK debug est dans le dépôt : [`app/build/outputs/apk/debug/app-debug.apk`](app/build/outputs/apk/debug/app-debug.apk)
+
+Téléchargement direct : https://github.com/GAYENSIS09/SenAnnonces/raw/master/app/build/outputs/apk/debug/app-debug.apk
 
 ---
 
