@@ -1,6 +1,7 @@
-# Built outputs
+# Built outputs (except APK debug)
 /build/
 /app/build/
+!/app/build/outputs/apk/debug/app-debug.apk
 /buildSrc/
 
 # Gradle
@@ -13,7 +14,6 @@ gradle-app.setting
 *.iml
 *.iws
 *.ipr
-.DS_Store
 
 # OneDrive
 ~$*
@@ -25,5 +25,6 @@ gradle-app.setting
 Thumbs.db
 .DS_Store
 
-# APK (optional - keep for delivery)
-# app/build/
+# Fichiers hors sujet
+NewUrlApi.txt
+Projet Android - SenAnnonces__.pdf
