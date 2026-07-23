@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF0A0A0A</color>
+    <color name="off_black">#FF111111</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="off_white">#FFF5F5F0</color>
+    <color name="acid">#FFAAFF00</color>
+    <color name="acid_dim">#FF88CC00</color>
+    <color name="muted">#FF888880</color>
+    <color name="border">#FF222222</color>
+
+    <color name="surface">#FF1A1A1A</color>
+    <color name="surface_variant">#FF252525</color>
+    <color name="on_surface">#FFFFFFFF</color>
+    <color name="on_surface_variant">#FFB0B0B0</color>
+    <color name="error">#FFFF5252</color>
+    <color name="success">#FFAAFF00</color>
+    <color name="card_bg">#FF161616</color>
+    <color name="input_bg">#FF1E1E1E</color>
+    <color name="divider">#FF2A2A2A</color>
+    <color name="text_secondary">#FF999999</color>
+    <color name="skeleton">#FF222222</color>
+</resources>

@@ -1,0 +1,29 @@
+# Built outputs
+/build/
+/app/build/
+/buildSrc/
+
+# Gradle
+.gradle/
+local.properties
+gradle-app.setting
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# OneDrive
+~$*
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+# APK (optional - keep for delivery)
+# app/build/

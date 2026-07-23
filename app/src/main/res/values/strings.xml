@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SenAnnonces</string>
+    <string name="login">Connexion</string>
+    <string name="register">Inscription</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="nom">Nom</string>
+    <string name="telephone">Téléphone</string>
+    <string name="home">Accueil</string>
+    <string name="categories">Catégories</string>
+    <string name="publish">Publier</string>
+    <string name="profile">Profil</string>
+    <string name="search_hint">Rechercher une annonce…</string>
+    <string name="no_annonces">Aucune annonce trouvée</string>
+    <string name="fcfa">FCFA</string>
+    <string name="appeler">Appeler</string>
+    <string name="detail">Détail</string>
+    <string name="quartier">Quartier</string>
+    <string name="description">Description</string>
+    <string name="titre">Titre</string>
+    <string name="prix">Prix</string>
+    <string name="categorie">Catégorie</string>
+    <string name="publier_annonce">Publier une annonce</string>
+    <string name="deconnexion">Déconnexion</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="or">ou</string>
+    <string name="no_account">Pas de compte ?</string>
+    <string name="has_account">Déjà un compte ?</string>
+    <string name="all_categories">Toutes les catégories</string>
+    <string name="recent">Récent</string>
+    <string name="price_asc">Prix croissant</string>
+    <string name="price_desc">Prix décroissant</string>
+</resources>
