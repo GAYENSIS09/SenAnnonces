@@ -25,6 +25,9 @@ gradle-app.setting
 Thumbs.db
 .DS_Store
 
+# opencode
+opencode
+
 # Fichiers hors sujet
 NewUrlApi.txt
 Projet Android - SenAnnonces__.pdf
